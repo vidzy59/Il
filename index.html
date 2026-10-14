@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FonoBase — Harga, Spesifikasi, dan Perbandingan HP</title>
+<meta name="description" content="FonoBase: direktori spesifikasi ponsel, perbandingan harga antar toko, dan tabel perbandingan head-to-head untuk pasar Indonesia.">
+<meta name="color-scheme" content="light">
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+<div class="utilbar">
+  <div class="wrap utilbar-in">
+    <span>Database ponsel Indonesia — harga dalam Rupiah (IDR)</span>
+    <nav aria-label="Navigasi utilitas">
+      <a href="#/bandingkan">Bandingkan HP</a>
+      <a href="#/panduan">Panduan</a>
+      <a href="#/tentang">Tentang</a>
+    </nav>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="wrap masthead-in">
+    <a class="brand" href="#/" aria-label="FonoBase Beranda" style="text-decoration:none">FONO<b>BASE</b><small>ARENA PONSEL</small></a>
+    <div class="searchbar" role="search">
+      <label class="sr-only" for="globalSearch">Cari ponsel</label>
+      <input id="globalSearch" type="search" placeholder="Cari model, merek, atau chipset. Contoh: Galaxy A56, Dimensity 7300" autocomplete="off">
+      <button id="globalSearchBtn" type="button">CARI</button>
+      <div id="searchSuggest" class="suggest"></div>
+    </div>
+    <div class="maststat"><b id="statCount">12</b><span>tipe HP</span></div>
+    <a class="btn btn-primary" href="#/bandingkan" id="compareCta">Bandingkan (<span id="compareCount">0</span>)</a>
+  </div>
+</header>
+
+<nav class="mainnav" aria-label="Navigasi utama">
+  <div class="wrap mainnav-in" id="primaryNav">
+    <a href="#/" data-route="home">BERANDA</a>
+    <a href="#/katalog" data-route="katalog">KATALOG HP</a>
+    <a href="#/bandingkan" data-route="bandingkan">BANDINGKAN</a>
+    <a href="#/panduan" data-route="panduan">PANDUAN</a>
+    <a href="#/tentang" data-route="tentang">TENTANG</a>
+  </div>
+</nav>
+
+<div class="wrap" style="padding-top:10px">
+<div class="cols">
+  <aside class="rail-left" aria-label="Panel penyaring">
+    <div class="card" style="margin:0">
+      <div class="card-h">Phone Finder</div>
+      <div class="card-b finder">
+        <form id="finderForm">
+          <label for="fMerek">Merek</label>
+          <select id="fMerek" name="merek"><option value="">Semua merek</option></select>
+          <label for="fHarga">Harga maksimum</label>
+          <select id="fHarga" name="hargaMaks">
+            <option value="">Tanpa batas</option>
+            <option value="4000000">s.d. Rp 4 jt</option>
+            <option value="6000000">s.d. Rp 6 jt</option>
+            <option value="9000000">s.d. Rp 9 jt</option>
+            <option value="13000000">s.d. Rp 13 jt</option>
+          </select>
+          <div class="finder-row">
+            <div><label for="fRam">RAM min.</label>
+              <select id="fRam" name="ramMin"><option value="">Semua</option><option>4</option><option>6</option><option>8</option><option>12</option></select></div>
+            <div><label for="fStorage">Storage min.</label>
+              <select id="fStorage" name="storageMin"><option value="">Semua</option><option>128</option><option>256</option><option>512</option></select></div>
+          </div>
+          <label for="fBat">Baterai minimum</label>
+          <select id="fBat" name="bateraiMin">
+            <option value="">Semua</option>
+            <option value="4500">4500 mAh+</option>
+            <option value="5000">5000 mAh+</option>
+            <option value="5500">5500 mAh+</option>
+          </select>
+          <div class="finder-row">
+            <div><label for="fJar">Jaringan</label>
+              <select id="fJar" name="jaringan"><option value="">Semua</option><option>5G</option><option>4G</option></select></div>
+            <div><label for="fNfc">NFC</label>
+              <select id="fNfc" name="nfc"><option value="">Semua</option><option value="ya">Harus ada</option></select></div>
+          </div>
+          <button class="btn btn-primary btn-block" type="submit">Terapkan filter</button>
+          <button class="btn btn-block" type="button" id="finderReset">Atur ulang</button>
+        </form>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-h">Merek</div>
+      <div class="card-b"><ul class="linklist" id="brandLinks" style="list-style:none;margin:0;padding:0"></ul></div>
+    </div>
+  </aside>
+
+  <main class="content" id="app" tabindex="-1"></main>
+
+  <aside class="rail-right" aria-label="Panel informasi">
+    <div class="card">
+      <div class="card-h">Paling banyak dibaca</div>
+      <div class="card-b"><ol class="ranklist" id="popularList"></ol></div>
+    </div>
+    <div class="card">
+      <div class="card-h">Perbandingan cepat</div>
+      <div class="card-b">
+        <p>Maksimal tiga model untuk disandingkan.</p>
+        <div id="compareMiniList"></div>
+        <a class="btn btn-block" href="#/bandingkan">Buka tabel perbandingan</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-h">Bobot penilaian</div>
+      <div class="card-b">
+        <p>Performa 30% · Kamera 25% · Layar 20% · Daya 15% · Nilai 10%.</p>
+        <a href="#/panduan">Rumus dan glosarium</a>
+      </div>
+    </div>
+  </aside>
+</div>
+</div>
+
+<footer class="footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-brand">FONOBASE</p>
+      <p>Arsip spesifikasi dan pembanding harga ponsel untuk pembeli Indonesia. Spesifikasi merujuk lembar resmi pabrikan.</p>
+    </div>
+    <nav aria-label="Navigasi direktori">
+      <p class="footer-head">Direktori</p>
+      <a href="#/katalog">Katalog HP</a>
+      <a href="#/bandingkan">Bandingkan HP</a>
+      <a href="#/panduan">Panduan</a>
+    </nav>
+    <nav aria-label="Navigasi situs">
+      <p class="footer-head">Situs</p>
+      <a href="#/tentang">Tentang</a>
+      <a href="#/panduan">Glosarium</a>
+    </nav>
+    <div>
+      <p class="footer-head">Keterangan</p>
+      <p class="footer-note">Harga dalam Rupiah dan dapat berubah. Pastikan segel distributor resmi dan kartu garansi sebelum membayar.</p>
+    </div>
+  </div>
+  <div class="wrap footer-base">
+    <p>FonoBase 2026. Mode tampilan: terang.</p>
+  </div>
+</footer>
+
+<script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

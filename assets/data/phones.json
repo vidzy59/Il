@@ -1,0 +1,1019 @@
+[
+ {
+  "id": "samsung-galaxy-a56",
+  "nama": "Galaxy A56 5G",
+  "merek": "Samsung",
+  "chipset": "Exynos 1580",
+  "cpu": "Octa-core (1x2.9 GHz + 3x2.6 GHz + 4x1.9 GHz)",
+  "gpu": "Xclipse 540",
+  "ram": [
+   8,
+   12
+  ],
+  "storage": [
+   128,
+   256
+  ],
+  "layar": {
+   "ukuran": 6.7,
+   "tipe": "Super AMOLED",
+   "refresh": 120,
+   "resolusi": "1080 x 2340",
+   "proteksi": "Gorilla Glass Victus+"
+  },
+  "baterai": 5000,
+  "charging": 45,
+  "kamera": {
+   "belakang": "50 MP (OIS) + 12 MP ultrawide + 5 MP makro",
+   "depan": "12 MP",
+   "video": "4K@30fps"
+  },
+  "os": "Android 15, One UI 7",
+  "update": "6x OS + 6 tahun keamanan",
+  "dimensi": "162.2 x 77.5 x 7.4 mm",
+  "bobot": 198,
+  "sim": "Nano-SIM + eSIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": true,
+  "speaker": "Stereo",
+  "iprating": "IP67",
+  "tahun": 2025,
+  "harga": 6199000,
+  "populer": 98,
+  "deskripsi": "Menengah atas Samsung dengan rangka aluminium, layar Super AMOLED 120 Hz, dan dukungan pembaruan enam generasi OS. Kamera utama 50 MP ber-OIS menjadi penopang utama segmen ini.",
+  "skor": {
+   "performa": 78,
+   "kamera": 82,
+   "layar": 88,
+   "daya": 80,
+   "nilai": 84
+  },
+  "toko": [
+   {
+    "nama": "Samsung Store Official",
+    "harga": 6199000,
+    "catatan": "Garansi resmi SEIN",
+    "stok": "Tersedia",
+    "rating": 4.9
+   },
+   {
+    "nama": "Erafone",
+    "harga": 6249000,
+    "catatan": "Cicilan 0% 12 bulan",
+    "stok": "Tersedia",
+    "rating": 4.8
+   },
+   {
+    "nama": "Blibli",
+    "harga": 6299000,
+    "catatan": "Voucher bank tertentu",
+    "stok": "Tersedia",
+    "rating": 4.7
+   }
+  ],
+  "riwayat": [
+   6499000,
+   6399000,
+   6349000,
+   6299000,
+   6249000,
+   6199000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Uji Lab",
+    "isi": "Daya tahan baterai 14 jam 20 menit pada pengujian video loop. Suhu permukaan terjaga di bawah 42 derajat pada beban gim 30 menit.",
+    "nilai": 4.4
+   },
+   {
+    "nama": "Pengamat Industri",
+    "isi": "Komitmen pembaruan terpanjang di kelasnya. Nilai jual kembali unit Samsung A-series stabil.",
+    "nilai": 4.5
+   }
+  ]
+ },
+ {
+  "id": "xiaomi-redmi-note-14-pro",
+  "nama": "Redmi Note 14 Pro 5G",
+  "merek": "Xiaomi",
+  "chipset": "Dimensity 7300 Ultra",
+  "cpu": "Octa-core (4x2.5 GHz + 4x2.0 GHz)",
+  "gpu": "Mali-G615 MC2",
+  "ram": [
+   8,
+   12
+  ],
+  "storage": [
+   256,
+   512
+  ],
+  "layar": {
+   "ukuran": 6.67,
+   "tipe": "AMOLED CrystalRes",
+   "refresh": 120,
+   "resolusi": "1220 x 2712",
+   "proteksi": "Gorilla Glass Victus 2"
+  },
+  "baterai": 5110,
+  "charging": 90,
+  "kamera": {
+   "belakang": "200 MP (OIS) + 8 MP ultrawide + 2 MP makro",
+   "depan": "32 MP",
+   "video": "4K@30fps"
+  },
+  "os": "Android 14, HyperOS",
+  "update": "3x OS + 4 tahun keamanan",
+  "dimensi": "162.3 x 74.4 x 8.4 mm",
+  "bobot": 190,
+  "sim": "Dual Nano-SIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": false,
+  "speaker": "Stereo Dolby Atmos",
+  "iprating": "IP68",
+  "tahun": 2025,
+  "harga": 4799000,
+  "populer": 96,
+  "deskripsi": "Penantang utama kelas menengah dengan sensor 200 MP, pengisian 90 W, dan sertifikasi IP68 yang jarang ditemui pada rentang harga ini.",
+  "skor": {
+   "performa": 80,
+   "kamera": 84,
+   "layar": 86,
+   "daya": 84,
+   "nilai": 90
+  },
+  "toko": [
+   {
+    "nama": "Mi Store Official",
+    "harga": 4799000,
+    "catatan": "Garansi resmi 15 bulan",
+    "stok": "Tersedia",
+    "rating": 4.8
+   },
+   {
+    "nama": "Shopee Mall",
+    "harga": 4849000,
+    "catatan": "Gratis ongkir asuransi",
+    "stok": "Tersedia",
+    "rating": 4.7
+   },
+   {
+    "nama": "Erafone",
+    "harga": 4899000,
+    "catatan": "Tukar tambah tersedia",
+    "stok": "Menipis",
+    "rating": 4.6
+   }
+  ],
+  "riwayat": [
+   4999000,
+   4949000,
+   4899000,
+   4879000,
+   4829000,
+   4799000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Uji Kamera",
+    "isi": "Mode 200 MP menangkap detail memadai pada cahaya cukup. OIS membantu konsistensi foto malam.",
+    "nilai": 4.3
+   }
+  ]
+ },
+ {
+  "id": "poco-x7-pro",
+  "nama": "Poco X7 Pro 5G",
+  "merek": "Poco",
+  "chipset": "Dimensity 8400 Ultra",
+  "cpu": "Octa-core hingga 3.25 GHz",
+  "gpu": "Mali-G720 MC7",
+  "ram": [
+   8,
+   12
+  ],
+  "storage": [
+   256,
+   512
+  ],
+  "layar": {
+   "ukuran": 6.67,
+   "tipe": "AMOLED CrystalRes",
+   "refresh": 120,
+   "resolusi": "1220 x 2712",
+   "proteksi": "Gorilla Glass 7i"
+  },
+  "baterai": 6000,
+  "charging": 90,
+  "kamera": {
+   "belakang": "50 MP (OIS) + 8 MP ultrawide",
+   "depan": "20 MP",
+   "video": "4K@60fps"
+  },
+  "os": "Android 15, HyperOS 2",
+  "update": "3x OS + 4 tahun keamanan",
+  "dimensi": "160.8 x 75.2 x 8.3 mm",
+  "bobot": 195,
+  "sim": "Dual Nano-SIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": false,
+  "speaker": "Stereo",
+  "iprating": "IP68",
+  "tahun": 2025,
+  "harga": 4999000,
+  "populer": 94,
+  "deskripsi": "Fokus performa mentah dengan Dimensity 8400 Ultra dan baterai 6000 mAh. Kandidat utama untuk gim berat pada anggaran menengah.",
+  "skor": {
+   "performa": 90,
+   "kamera": 76,
+   "layar": 84,
+   "daya": 90,
+   "nilai": 92
+  },
+  "toko": [
+   {
+    "nama": "Poco Official Store",
+    "harga": 4999000,
+    "catatan": "Bonus perdana penjualan",
+    "stok": "Tersedia",
+    "rating": 4.8
+   },
+   {
+    "nama": "Tokopedia Official",
+    "harga": 5049000,
+    "catatan": "Proteksi gadget 12 bulan",
+    "stok": "Tersedia",
+    "rating": 4.6
+   }
+  ],
+  "riwayat": [
+   5299000,
+   5199000,
+   5149000,
+   5099000,
+   5049000,
+   4999000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Uji Performa",
+    "isi": "Skor AnTuTu terukur 1,63 juta. Throttling terkendali berkat ruang uap 5000 mm persegi.",
+    "nilai": 4.6
+   }
+  ]
+ },
+ {
+  "id": "samsung-galaxy-a36",
+  "nama": "Galaxy A36 5G",
+  "merek": "Samsung",
+  "chipset": "Snapdragon 6 Gen 3",
+  "cpu": "Octa-core (4x2.4 GHz + 4x1.8 GHz)",
+  "gpu": "Adreno 710",
+  "ram": [
+   8,
+   12
+  ],
+  "storage": [
+   128,
+   256
+  ],
+  "layar": {
+   "ukuran": 6.7,
+   "tipe": "Super AMOLED",
+   "refresh": 120,
+   "resolusi": "1080 x 2340",
+   "proteksi": "Gorilla Glass Victus+"
+  },
+  "baterai": 5000,
+  "charging": 45,
+  "kamera": {
+   "belakang": "50 MP (OIS) + 8 MP ultrawide + 5 MP makro",
+   "depan": "12 MP",
+   "video": "4K@30fps"
+  },
+  "os": "Android 15, One UI 7",
+  "update": "6x OS + 6 tahun keamanan",
+  "dimensi": "162.9 x 78.2 x 7.4 mm",
+  "bobot": 195,
+  "sim": "Nano-SIM + eSIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": true,
+  "speaker": "Stereo",
+  "iprating": "IP67",
+  "tahun": 2025,
+  "harga": 5199000,
+  "populer": 90,
+  "deskripsi": "Adik A56 dengan pengalaman One UI identik dan dukungan pembaruan setara. Selisih harga dialokasikan dari sektor chipset dan rangka.",
+  "skor": {
+   "performa": 72,
+   "kamera": 78,
+   "layar": 86,
+   "daya": 80,
+   "nilai": 82
+  },
+  "toko": [
+   {
+    "nama": "Samsung Store Official",
+    "harga": 5199000,
+    "catatan": "Garansi resmi SEIN",
+    "stok": "Tersedia",
+    "rating": 4.9
+   },
+   {
+    "nama": "Erafone",
+    "harga": 5249000,
+    "catatan": "Cicilan kartu kredit",
+    "stok": "Tersedia",
+    "rating": 4.7
+   }
+  ],
+  "riwayat": [
+   5399000,
+   5349000,
+   5299000,
+   5279000,
+   5229000,
+   5199000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Observasi",
+    "isi": "Pilihan rasional bagi pengguna ekosistem Samsung yang tidak mengejar performa puncak.",
+    "nilai": 4.1
+   }
+  ]
+ },
+ {
+  "id": "xiaomi-14t",
+  "nama": "Xiaomi 14T",
+  "merek": "Xiaomi",
+  "chipset": "Dimensity 8300 Ultra",
+  "cpu": "Octa-core (1x3.35 GHz + 3x3.2 GHz + 4x2.2 GHz)",
+  "gpu": "Mali-G615 MC6",
+  "ram": [
+   12
+  ],
+  "storage": [
+   256,
+   512
+  ],
+  "layar": {
+   "ukuran": 6.67,
+   "tipe": "AMOLED CrystalRes",
+   "refresh": 144,
+   "resolusi": "1220 x 2712",
+   "proteksi": "Gorilla Glass 5"
+  },
+  "baterai": 5000,
+  "charging": 67,
+  "kamera": {
+   "belakang": "50 MP Leica (OIS) + 50 MP telefoto + 12 MP ultrawide",
+   "depan": "32 MP",
+   "video": "4K@30fps"
+  },
+  "os": "Android 14, HyperOS",
+  "update": "4x OS + 5 tahun keamanan",
+  "dimensi": "160.5 x 75.1 x 7.8 mm",
+  "bobot": 195,
+  "sim": "Dual Nano-SIM + eSIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": false,
+  "speaker": "Stereo",
+  "iprating": "IP68",
+  "tahun": 2024,
+  "harga": 6499000,
+  "populer": 88,
+  "deskripsi": "Kolaborasi optik Leica dengan lensa telefoto 50 MP. Refresh rate 144 Hz menjadi pembeda di kelas harga enam jutaan.",
+  "skor": {
+   "performa": 86,
+   "kamera": 88,
+   "layar": 88,
+   "daya": 78,
+   "nilai": 80
+  },
+  "toko": [
+   {
+    "nama": "Mi Store Official",
+    "harga": 6499000,
+    "catatan": "Garansi resmi 24 bulan",
+    "stok": "Tersedia",
+    "rating": 4.8
+   },
+   {
+    "nama": "Blibli",
+    "harga": 6549000,
+    "catatan": "Tukar tambah",
+    "stok": "Tersedia",
+    "rating": 4.6
+   },
+   {
+    "nama": "Shopee Mall",
+    "harga": 6599000,
+    "catatan": "Voucher toko",
+    "stok": "Menipis",
+    "rating": 4.5
+   }
+  ],
+  "riwayat": [
+   6999000,
+   6899000,
+   6799000,
+   6699000,
+   6599000,
+   6499000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Uji Kamera",
+    "isi": "Profil warna Leica Authentic konsisten antar lensa. Kemampuan malam telefoto di atas rata-rata kelasnya.",
+    "nilai": 4.6
+   }
+  ]
+ },
+ {
+  "id": "oppo-reno-13",
+  "nama": "Reno 13 5G",
+  "merek": "Oppo",
+  "chipset": "Dimensity 8350",
+  "cpu": "Octa-core hingga 3.35 GHz",
+  "gpu": "Mali-G615 MC6",
+  "ram": [
+   8,
+   12
+  ],
+  "storage": [
+   256,
+   512
+  ],
+  "layar": {
+   "ukuran": 6.59,
+   "tipe": "AMOLED",
+   "refresh": 120,
+   "resolusi": "1256 x 2760",
+   "proteksi": "Gorilla Glass 7i"
+  },
+  "baterai": 5600,
+  "charging": 80,
+  "kamera": {
+   "belakang": "50 MP (OIS) + 8 MP ultrawide + 2 MP makro",
+   "depan": "50 MP AF",
+   "video": "4K@60fps"
+  },
+  "os": "Android 15, ColorOS 15",
+  "update": "3x OS + 4 tahun keamanan",
+  "dimensi": "157.9 x 74.3 x 7.2 mm",
+  "bobot": 181,
+  "sim": "Dual Nano-SIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": false,
+  "speaker": "Stereo",
+  "iprating": "IP69",
+  "tahun": 2025,
+  "harga": 8999000,
+  "populer": 84,
+  "deskripsi": "Bodi ramping 7,2 mm dengan sertifikasi IP69. Kamera depan 50 MP autofokus menyasar kreator konten swafoto dan vlog.",
+  "skor": {
+   "performa": 82,
+   "kamera": 82,
+   "layar": 84,
+   "daya": 84,
+   "nilai": 72
+  },
+  "toko": [
+   {
+    "nama": "Oppo Store Official",
+    "harga": 8999000,
+    "catatan": "Bonus casing dan tempered glass",
+    "stok": "Tersedia",
+    "rating": 4.8
+   },
+   {
+    "nama": "Erafone",
+    "harga": 9049000,
+    "catatan": "Cicilan 0%",
+    "stok": "Tersedia",
+    "rating": 4.7
+   }
+  ],
+  "riwayat": [
+   8999000,
+   8999000,
+   8999000,
+   8999000,
+   8999000,
+   8999000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Observasi",
+    "isi": "Harga bertahan sejak peluncuran. Nilai jual terletak pada desain, ketahanan air, dan kamera depan.",
+    "nilai": 4
+   }
+  ]
+ },
+ {
+  "id": "vivo-v40",
+  "nama": "Vivo V40 5G",
+  "merek": "Vivo",
+  "chipset": "Snapdragon 7 Gen 3",
+  "cpu": "Octa-core (1x2.63 GHz + 3x2.4 GHz + 4x1.8 GHz)",
+  "gpu": "Adreno 720",
+  "ram": [
+   8,
+   12
+  ],
+  "storage": [
+   256,
+   512
+  ],
+  "layar": {
+   "ukuran": 6.78,
+   "tipe": "AMOLED lengkung 3D",
+   "refresh": 120,
+   "resolusi": "1260 x 2800",
+   "proteksi": "Schott Xensation"
+  },
+  "baterai": 5500,
+  "charging": 80,
+  "kamera": {
+   "belakang": "50 MP Zeiss (OIS) + 50 MP ultrawide",
+   "depan": "50 MP AF",
+   "video": "4K@30fps"
+  },
+  "os": "Android 14, Funtouch 14",
+  "update": "3x OS + 4 tahun keamanan",
+  "dimensi": "164.2 x 75 x 7.6 mm",
+  "bobot": 190,
+  "sim": "Dual Nano-SIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": false,
+  "speaker": "Stereo",
+  "iprating": "IP68",
+  "tahun": 2024,
+  "harga": 6999000,
+  "populer": 86,
+  "deskripsi": "Kolaborasi optik Zeiss dengan layar lengkung 3D. Profil tipis dan ringan untuk ukuran baterai 5500 mAh.",
+  "skor": {
+   "performa": 78,
+   "kamera": 86,
+   "layar": 88,
+   "daya": 84,
+   "nilai": 78
+  },
+  "toko": [
+   {
+    "nama": "Vivo Official Store",
+    "harga": 6999000,
+    "catatan": "Garansi resmi 12 bulan",
+    "stok": "Tersedia",
+    "rating": 4.8
+   },
+   {
+    "nama": "Tokopedia Official",
+    "harga": 7049000,
+    "catatan": "Bebas proteksi retak 6 bulan",
+    "stok": "Tersedia",
+    "rating": 4.6
+   }
+  ],
+  "riwayat": [
+   7499000,
+   7399000,
+   7299000,
+   7199000,
+   7099000,
+   6999000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Uji Kamera",
+    "isi": "Rendering potret Zeiss natural dengan bokeh konsisten. Ultrawide 50 MP jarang ditemui di kelas ini.",
+    "nilai": 4.5
+   }
+  ]
+ },
+ {
+  "id": "realme-13-pro-plus",
+  "nama": "Realme 13 Pro+ 5G",
+  "merek": "Realme",
+  "chipset": "Snapdragon 7s Gen 2",
+  "cpu": "Octa-core (4x2.4 GHz + 4x1.95 GHz)",
+  "gpu": "Adreno 710",
+  "ram": [
+   8,
+   12
+  ],
+  "storage": [
+   256,
+   512
+  ],
+  "layar": {
+   "ukuran": 6.7,
+   "tipe": "AMOLED lengkung",
+   "refresh": 120,
+   "resolusi": "1080 x 2412",
+   "proteksi": "Gorilla Glass 7i"
+  },
+  "baterai": 5200,
+  "charging": 80,
+  "kamera": {
+   "belakang": "50 MP Sony LYT-701 (OIS) + 50 MP periskop 3x + 8 MP ultrawide",
+   "depan": "32 MP",
+   "video": "4K@30fps"
+  },
+  "os": "Android 14, Realme UI 5",
+  "update": "2x OS + 3 tahun keamanan",
+  "dimensi": "161.3 x 73.9 x 8.2 mm",
+  "bobot": 190,
+  "sim": "Dual Nano-SIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": false,
+  "speaker": "Stereo",
+  "iprating": "IP65",
+  "tahun": 2024,
+  "harga": 6999000,
+  "populer": 80,
+  "deskripsi": "Satu dari sedikit ponsel menengah dengan telefoto periskop 3x dan sensor Sony LYT-701. Fokus pada fotografi jarak jauh.",
+  "skor": {
+   "performa": 74,
+   "kamera": 86,
+   "layar": 84,
+   "daya": 80,
+   "nilai": 76
+  },
+  "toko": [
+   {
+    "nama": "Realme Official Store",
+    "harga": 6999000,
+    "catatan": "Bonus Realme Buds periode promo",
+    "stok": "Tersedia",
+    "rating": 4.7
+   },
+   {
+    "nama": "Shopee Mall",
+    "harga": 7049000,
+    "catatan": "Voucher pengguna baru",
+    "stok": "Tersedia",
+    "rating": 4.5
+   }
+  ],
+  "riwayat": [
+   7299000,
+   7199000,
+   7149000,
+   7099000,
+   7049000,
+   6999000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Uji Kamera",
+    "isi": "Periskop 3x tajam hingga 6x hibrida. Dukungan pembaruan yang pendek menjadi catatan.",
+    "nilai": 4.2
+   }
+  ]
+ },
+ {
+  "id": "infinix-note-40-pro-plus",
+  "nama": "Note 40 Pro+ 5G",
+  "merek": "Infinix",
+  "chipset": "Dimensity 7020",
+  "cpu": "Octa-core (2x2.2 GHz + 6x2.0 GHz)",
+  "gpu": "IMG BXM-8-256",
+  "ram": [
+   12
+  ],
+  "storage": [
+   256
+  ],
+  "layar": {
+   "ukuran": 6.78,
+   "tipe": "AMOLED lengkung 3D",
+   "refresh": 120,
+   "resolusi": "1080 x 2436",
+   "proteksi": "Gorilla Glass 5"
+  },
+  "baterai": 4600,
+  "charging": 100,
+  "kamera": {
+   "belakang": "108 MP (OIS) + 2 MP makro",
+   "depan": "32 MP",
+   "video": "2K@30fps"
+  },
+  "os": "Android 14, XOS 14",
+  "update": "2x OS + 3 tahun keamanan",
+  "dimensi": "164.4 x 74.6 x 7.8 mm",
+  "bobot": 190,
+  "sim": "Dual Nano-SIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": false,
+  "speaker": "Stereo JBL",
+  "iprating": "IP53",
+  "tahun": 2024,
+  "harga": 4199000,
+  "populer": 82,
+  "deskripsi": "Pengisian 100 W dan pengisian nirkabel magnetik di kelas empat jutaan. Paket penjualan mencakup adaptor dan casing magnetik.",
+  "skor": {
+   "performa": 70,
+   "kamera": 76,
+   "layar": 84,
+   "daya": 78,
+   "nilai": 88
+  },
+  "toko": [
+   {
+    "nama": "Infinix Official Store",
+    "harga": 4199000,
+    "catatan": "Bonus MagCase dan MagPad",
+    "stok": "Tersedia",
+    "rating": 4.7
+   },
+   {
+    "nama": "Tokopedia Official",
+    "harga": 4249000,
+    "catatan": "Garansi resmi 12 bulan",
+    "stok": "Tersedia",
+    "rating": 4.5
+   }
+  ],
+  "riwayat": [
+   4499000,
+   4449000,
+   4399000,
+   4349000,
+   4299000,
+   4199000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Observasi",
+    "isi": "Kecepatan isi ulang terbaik di kelasnya: 0–100 persen dalam 34 menit terukur.",
+    "nilai": 4.1
+   }
+  ]
+ },
+ {
+  "id": "apple-iphone-16e",
+  "nama": "iPhone 16e",
+  "merek": "Apple",
+  "chipset": "Apple A18",
+  "cpu": "Hexa-core",
+  "gpu": "Apple GPU 4-core",
+  "ram": [
+   8
+  ],
+  "storage": [
+   128,
+   256,
+   512
+  ],
+  "layar": {
+   "ukuran": 6.1,
+   "tipe": "Super Retina XDR OLED",
+   "refresh": 60,
+   "resolusi": "1170 x 2532",
+   "proteksi": "Ceramic Shield"
+  },
+  "baterai": 4005,
+  "charging": 20,
+  "kamera": {
+   "belakang": "48 MP Fusion",
+   "depan": "12 MP TrueDepth",
+   "video": "4K@60fps Dolby Vision"
+  },
+  "os": "iOS 18",
+  "update": "5+ tahun pembaruan mayor",
+  "dimensi": "146.7 x 71.5 x 7.8 mm",
+  "bobot": 167,
+  "sim": "Dual eSIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": false,
+  "speaker": "Stereo",
+  "iprating": "IP68",
+  "tahun": 2025,
+  "harga": 12499000,
+  "populer": 78,
+  "deskripsi": "Pintu masuk termurah ke ekosistem Apple Intelligence dengan modem C1 rancangan internal. Layar 60 Hz menjadi kompromi utama.",
+  "skor": {
+   "performa": 88,
+   "kamera": 84,
+   "layar": 72,
+   "daya": 82,
+   "nilai": 64
+  },
+  "toko": [
+   {
+    "nama": "Apple Authorised Reseller",
+    "harga": 12499000,
+    "catatan": "Garansi resmi Indonesia",
+    "stok": "Tersedia",
+    "rating": 4.9
+   },
+   {
+    "nama": "Erafone",
+    "harga": 12549000,
+    "catatan": "Cicilan 0% 24 bulan",
+    "stok": "Tersedia",
+    "rating": 4.8
+   }
+  ],
+  "riwayat": [
+   12499000,
+   12499000,
+   12499000,
+   12499000,
+   12499000,
+   12499000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Observasi",
+    "isi": "Efisiensi modem C1 menambah 2 jam masa pakai dibanding pendahulunya. Absennya MagSafe mengecewakan aksesori lama.",
+    "nilai": 4
+   }
+  ]
+ },
+ {
+  "id": "motorola-moto-g85",
+  "nama": "Moto G85 5G",
+  "merek": "Motorola",
+  "chipset": "Snapdragon 6s Gen 3",
+  "cpu": "Octa-core (2x2.3 GHz + 6x2.0 GHz)",
+  "gpu": "Adreno 619",
+  "ram": [
+   8,
+   12
+  ],
+  "storage": [
+   128,
+   256
+  ],
+  "layar": {
+   "ukuran": 6.67,
+   "tipe": "pOLED lengkung",
+   "refresh": 144,
+   "resolusi": "1080 x 2400",
+   "proteksi": "Gorilla Glass 5"
+  },
+  "baterai": 5000,
+  "charging": 33,
+  "kamera": {
+   "belakang": "50 MP Sony LYT-600 (OIS) + 8 MP ultrawide",
+   "depan": "32 MP",
+   "video": "1080p@60fps"
+  },
+  "os": "Android 14",
+  "update": "2x OS + 3 tahun keamanan",
+  "dimensi": "161.9 x 73.1 x 7.6 mm",
+  "bobot": 172,
+  "sim": "Nano-SIM + eSIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": true,
+  "speaker": "Stereo Dolby Atmos",
+  "iprating": "IP54",
+  "tahun": 2024,
+  "harga": 4499000,
+  "populer": 70,
+  "deskripsi": "Pengalaman Android nyaris murni dengan layar pOLED 144 Hz dan bodi 172 gram yang ringan. Slot microSD masih tersedia.",
+  "skor": {
+   "performa": 68,
+   "kamera": 74,
+   "layar": 84,
+   "daya": 78,
+   "nilai": 80
+  },
+  "toko": [
+   {
+    "nama": "Motorola Official Store",
+    "harga": 4499000,
+    "catatan": "Garansi resmi 12 bulan",
+    "stok": "Tersedia",
+    "rating": 4.6
+   },
+   {
+    "nama": "Blibli",
+    "harga": 4549000,
+    "catatan": "Gratis tempered glass",
+    "stok": "Tersedia",
+    "rating": 4.4
+   }
+  ],
+  "riwayat": [
+   4999000,
+   4899000,
+   4799000,
+   4699000,
+   4599000,
+   4499000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Observasi",
+    "isi": "Antarmuka bersih tanpa iklan sistem. Performa cukup untuk harian, bukan untuk gim kompetitif.",
+    "nilai": 3.9
+   }
+  ]
+ },
+ {
+  "id": "tecno-camon-40-pro",
+  "nama": "Camon 40 Pro 5G",
+  "merek": "Tecno",
+  "chipset": "Dimensity 7300",
+  "cpu": "Octa-core (4x2.5 GHz + 4x2.0 GHz)",
+  "gpu": "Mali-G615 MC2",
+  "ram": [
+   8
+  ],
+  "storage": [
+   256
+  ],
+  "layar": {
+   "ukuran": 6.78,
+   "tipe": "AMOLED",
+   "refresh": 120,
+   "resolusi": "1080 x 2436",
+   "proteksi": "Gorilla Glass 7i"
+  },
+  "baterai": 5200,
+  "charging": 45,
+  "kamera": {
+   "belakang": "50 MP Sony LYT-700C (OIS) + 8 MP ultrawide",
+   "depan": "50 MP AF",
+   "video": "4K@30fps"
+  },
+  "os": "Android 15, HiOS 15",
+  "update": "2x OS + 3 tahun keamanan",
+  "dimensi": "164.4 x 74.3 x 7.3 mm",
+  "bobot": 179,
+  "sim": "Dual Nano-SIM",
+  "jaringan": "5G",
+  "nfc": true,
+  "jack35": false,
+  "microsd": false,
+  "speaker": "Stereo Dolby Atmos",
+  "iprating": "IP68",
+  "tahun": 2025,
+  "harga": 3899000,
+  "populer": 74,
+  "deskripsi": "Kamera depan 50 MP autofokus dan sertifikasi IP68 pada harga di bawah empat juta. Salah satu proposal nilai terkuat tahun ini.",
+  "skor": {
+   "performa": 76,
+   "kamera": 80,
+   "layar": 82,
+   "daya": 82,
+   "nilai": 90
+  },
+  "toko": [
+   {
+    "nama": "Tecno Official Store",
+    "harga": 3899000,
+    "catatan": "Bonus TWS periode promo",
+    "stok": "Tersedia",
+    "rating": 4.6
+   },
+   {
+    "nama": "Shopee Mall",
+    "harga": 3949000,
+    "catatan": "Gratis ongkir",
+    "stok": "Tersedia",
+    "rating": 4.5
+   }
+  ],
+  "riwayat": [
+   4099000,
+   4049000,
+   3999000,
+   3979000,
+   3929000,
+   3899000
+  ],
+  "ulasan": [
+   {
+    "nama": "Redaksi — Uji Kamera",
+    "isi": "Foto malam konsisten berkat OIS dan pemrosesan yang tidak agresif. Perekaman stabil pada 4K.",
+    "nilai": 4.2
+   }
+  ]
+ }
+]
